@@ -29,7 +29,17 @@ I have done the various procedures that ensures data near accuracy including:
    Visualizations
    Reporting.
 
-   # USER INSTRUCTIONS
+# VISUALIZATION
+
+Here are some links to my visualization tools.
+
+Downloads/Top 10 highest grossing Movies.png
+
+Downloads/How runtime affects net gross earnings.png
+
+Downloads/How genre affects net gross earnings.png
+
+# USER INSTRUCTIONS
 
    Ensure to have Jupyter Notebook , Visual Studio Code or any other Python app installed to run code.
 
